@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "petgram-server",
+    "name": "petgram-server-2020",
     "alias": ["petgram-api"],
     "builds": [{ "src": "index.js", "use": "@vercel/node" }],
     "routes": [
